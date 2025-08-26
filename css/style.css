@@ -8,13 +8,14 @@
 
 #start,#itsme,#myproject,#journey,#contact,#end{
     /* background: linear-gradient(rgba(34,34,59)) !important; */
-    background-color: red;
+    /* background-color: red; */
 }
 
 body{
     /* background: linear-gradient(to right, #07223A, #050D17); */
     color: #fff !important;
     /* background: linear-gradient(rgba(34,34,59)) !important; */
+    background-color: blue !important;
 }
 html{
     font-size: 20px;
